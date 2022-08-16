@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajya&#39;s Digital Garden</title>
+    <link>https://rvmetabull.github.io/</link>
+    <description>Recent content on Rajya&#39;s Digital Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Rajya Vardhan Mishra 2022</copyright><atom:link href="https://rvmetabull.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://rvmetabull.github.io/about/</link>
+      <pubDate>Wed, 17 Aug 2022 01:11:19 +0530</pubDate>
+      
+      <guid>https://rvmetabull.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
